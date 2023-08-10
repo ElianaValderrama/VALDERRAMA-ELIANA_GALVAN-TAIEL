@@ -4,3 +4,5 @@ Unsupported database file version or invalid file header in file "C:/Users/Usuar
 [2023-08-09 22:40:33] [ ERROR] [OdontologoDaoH2:82] Versión del archivo de base de datos no soportada ó encabezado de archivo invalido en archivo "C:/Users/Usuario/test.mv.db"
 Unsupported database file version or invalid file header in file "C:/Users/Usuario/test.mv.db" [90048-220]
 [2023-08-09 22:40:33] [ ERROR] [OdontologoDaoH2:98] Ha ocurrido un error al intentar cerrar la bdd. Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-08-09 22:51:30] [ INFO ] [OdontologoDaoH2:79] Listado de todos los medicamentos: []
+[2023-08-09 22:56:18] [ INFO ] [OdontologoDaoH2:79] Listado de todos los medicamentos: [Odontologo{id=1, matricula=123, nombre='Homero', apellido='Simpson'}, Odontologo{id=2, matricula=456, nombre='Lisa', apellido='Simpson'}]
